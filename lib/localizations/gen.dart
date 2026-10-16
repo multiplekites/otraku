@@ -426,7 +426,7 @@ abstract class AppLocalizations {
   /// Past relative time in hours
   ///
   /// In en, this message translates to:
-  /// **'{count, plural, =1{1 hour ago} other{{count} horus ago}}'**
+  /// **'{count, plural, =1{1 hour ago} other{{count} hours ago}}'**
   String dateTimeAgoHours(int count);
 
   /// Past relative time in minutes
